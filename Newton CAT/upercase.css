@@ -1,0 +1,13 @@
+body { 
+background-color: black; }
+a {
+	color: green;
+	outline-color: yellow;
+	:hover {background-color: Yellow;}
+}
+a:hover {
+	background-color: yellow;
+}
+text {
+	color: orange;
+}
